@@ -1,0 +1,12 @@
+.buttonState:hover{
+    color: white !important;
+    background-color: #c61732;
+    transition: 0.5s;
+}
+
+.banner-forest{
+    height: 48vh;
+    background-image: url("../img/banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
