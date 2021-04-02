@@ -17,3 +17,26 @@
     text-align: center;
     color: #FFF;
 }
+
+.bg-down-article-2{
+    position: relative;
+    background: url(../img/footer-content-wrapper-bg.jpg) repeat;
+    text-align: center;
+    color: #FFF;
+}
+.bg-footer-dark{
+    position: relative;
+    background: url(../img/darkback.jpg) repeat;
+    text-align: center;
+    color: #FFF;
+}
+
+.text-color-and-decoration{
+    text-align: start;
+    text-decoration: none;
+    color: rgba(255,255,255,.6)
+}
+.text-color-and-decoration:hover{
+    color:rgba(255,255,255,.6);
+    text-decoration: underline rgba(255,255,255,.6);
+}
