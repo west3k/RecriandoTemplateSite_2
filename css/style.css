@@ -10,3 +10,10 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.bg-down-article{
+    position: relative;
+    background: url(../img/featured-wrapper-bg.jpg) repeat;
+    text-align: center;
+    color: #FFF;
+}
